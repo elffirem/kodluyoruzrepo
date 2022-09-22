@@ -14,8 +14,11 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Eğitiminde oluşturduğumuz bir r
 Projeyi clondeladıktan sonra Visual Stuido Code programında açınız.
 
 Linux için:
-'''cd kodluyoruzrepo
+
+```
+cd kodluyoruzrepo
 code .
+```
 
 # Contributing
 
