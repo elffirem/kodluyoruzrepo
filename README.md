@@ -15,7 +15,7 @@ Projeyi clondeladıktan sonra Visual Stuido Code programında açınız.
 
 Linux için:
 '''cd kodluyoruzrepo
-code .'''
+code .
 
 # Contributing
 
