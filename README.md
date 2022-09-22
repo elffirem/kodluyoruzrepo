@@ -6,6 +6,13 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Eğitiminde oluşturduğumuz bir r
 
 # Installation
 ---------
-Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
-`print("Hello Wordl")`
+Öncelikle projeyi clonelayın.
+`https://github.com/elffirem/kodluyoruzrepo.git`
+
+# Usage
+-------------
+Projeyi clondeladıktan sonra Visual Stuido Code programında açınız.
+
+Linux için:
+'cd kodluyoruzrepo\n code '
 
